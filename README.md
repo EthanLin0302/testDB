@@ -1,1 +1,1 @@
-testDB
+# arangodb-template
